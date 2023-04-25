@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(Poppins.woff2) format('woff2');
+   }
+
+.logo{
+    font-size: 60px;
+    font-weight: 800;
+    font-family: "Poppins";
+    text-align: center;
+}
+
+body{
+    font-family: "Poppins";
+    background-color: blanchedalmond;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
